@@ -1,0 +1,13 @@
+# A lista de clientes do aviso de férias (dados fictícios).
+#
+# O passo 1 emite a listagem para a base inteira do sistema de folha; é ESTE arquivo que define
+# quem recebe. Empresa que não estiver aqui fica de fora — não vira pendência.
+#
+# Formato:  <sigla ou cnpj>;<nome da empresa>;<e-mails separados por vírgula>
+#   - a 1ª coluna aceita a sigla do sistema de folha (ex.: ABC) ou o CNPJ;
+#   - pela sigla, as filiais do cliente (XYZ-1, XYZ-2, ...) saem num e-mail só;
+#   - o nome da empresa é o que aparece no assunto do e-mail;
+#   - ninguém entra em cópia.
+ABC;Empresa ABC Ltda;rh@abc.example.com
+XYZ;Grupo XYZ;financeiro@xyz.example.com,dp@xyz.example.com
+11222333000181;Empresa Filial Separada;contato@filial.example.com

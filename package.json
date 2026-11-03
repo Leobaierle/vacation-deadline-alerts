@@ -1,0 +1,11 @@
+{
+  "name": "aviso-ferias",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Automação aviso de férias: listagem de prazo concessivo no sistema de folha e alerta por e-mail aos clientes",
+  "type": "module",
+  "devDependencies": {
+    "playwright": "1.62.1",
+    "pngjs": "^7.0.0"
+  }
+}

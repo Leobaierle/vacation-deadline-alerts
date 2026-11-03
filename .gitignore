@@ -1,0 +1,12 @@
+node_modules/
+downloads/
+artifacts/
+logs/
+reports/
+.env
+.env.sharepoint
+*.xlsx
+*.pdf
+__pycache__/
+outbox/
+ctl/

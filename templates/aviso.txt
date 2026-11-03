@@ -1,0 +1,12 @@
+Assunto: Aviso de férias a vencer - {empresa}
+
+Prezados,
+
+Segue a relação de colaboradores com período de férias vencido ou próximo do vencimento. Conforme o art. 137 da CLT, as férias concedidas após o término do período concessivo devem ser remuneradas em dobro.
+
+{tabela}
+
+Para os casos em situação de vencimento, recomenda-se a programação imediata das férias. Para os casos a vencer, recomenda-se que a programação seja realizada dentro do prazo, a fim de evitar o pagamento em dobro.
+
+Departamento Pessoal
+Escritório de Contabilidade
